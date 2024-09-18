@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I’m currently working on: tcc_tello
-- 🌱 I’m currently learning: ROS
+- 🌱 I’m currently learning: ROS and Python
 - 💬 Ask me about: ROS, Robotics, Power Platform Apps, Excel and Backup Tools.
 - 📫 How to reach me:
   - ![Email](https://img.shields.io/badge/Email-albanomarcus%40outlook.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)
