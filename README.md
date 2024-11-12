@@ -19,8 +19,3 @@
 - Other: ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat-square&logo=microsoft-power-automate&logoColor=white), ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 , ![Dell Avamar](https://img.shields.io/badge/Dell%20Avamar-007DB8?style=flat-square&logo=dell&logoColor=white), ![Dell NetWorker](https://img.shields.io/badge/Dell%20NetWorker-007DB8?style=flat-square&logo=dell&logoColor=white)
 , ![Micro Focus Data Protector](https://img.shields.io/badge/Micro%20Focus%20Data%20Protector-2F2F2F?style=flat-square&logo=micro-focus&logoColor=white)
-
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=albanomarcus&show_icons=true&theme=radical)
-
