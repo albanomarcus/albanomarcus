@@ -1,7 +1,7 @@
 # Marcus Albano 
 
 ## About Me
-- 🔭 I’m currently working on: tcc_tello
+- 🔭 I’m currently working on: tello_pkg
 - 🌱 I’m currently learning: ROS and Python
 - 💬 Ask me about: ROS, Robotics, Power Platform Apps, Excel and Backup Tools.
 - 📫 How to reach me:
