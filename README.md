@@ -10,7 +10,7 @@
 
 
 ## 🚀 Projects
-- [Tcc_tello]((https://github.com/albanomarcus/tcc_marcus_albano)): Use of the Tello unmanned aerial vehicle for mapping, autonomous navigation, person detection and tracking.
+- [Tello_pkg]((https://github.com/albanomarcus/tello_pkg)): Use of the Tello unmanned aerial vehicle for mapping, autonomous navigation, person detection and tracking with ROS Noetic.
 
 
 ## 💻 Technologies
